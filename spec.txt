@@ -10,3 +10,4 @@ Staphylococcus aureus, human
 reports:
 1) show me list of germs
 2) show me count of germs per host
+3) show me effect of germs on humans
