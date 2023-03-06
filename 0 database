@@ -1,2 +1,6 @@
 create database trackgermdb
 go
+create table dbo.Germ(
+  germid int not null identity primary key,
+  germname varchar (200) not null unique
+)
